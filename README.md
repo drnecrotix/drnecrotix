@@ -41,16 +41,6 @@ I build practical digital products and community infrastructure — from **WordP
 
 ---
 
-## 🔨 Currently building
-
-| Project | What I'm building | Links |
-| --- | --- | --- |
-| 🔎 **SIGMA** | Open-data tooling for exploring Bulgarian public procurement | [Repository](https://github.com/drnecrotix/sigma) |
-| 🎮 **BG-GAMER** | WordPress, Discord and community integrations | [Website](https://bg-gamer.com) · [Repositories](https://github.com/drnecrotix?tab=repositories) |
-| 🧩 **WordPress Tools** | Plugins for authentication, community features and content workflows | [Steam Curator Plugin](https://github.com/drnecrotix/wp-steam-curator-plugin) |
-
----
-
 ## ⚡ Tech stack
 
 <div align="center">
@@ -67,25 +57,6 @@ I build practical digital products and community infrastructure — from **WordP
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured projects
-
-| | Project | Focus |
-| --- | --- | --- |
-| 🔎 | **[SIGMA](https://github.com/drnecrotix/sigma)** | Open-data platform and public procurement exploration |
-| 🎮 | **[Steam Curator WordPress Plugin](https://github.com/drnecrotix/wp-steam-curator-plugin)** | WordPress / Steam integration |
-| 🤖 | **[BG-GAMER Discord Integration](https://github.com/drnecrotix/bggamer-discord-integration)** | Discord and community automation |
-| 📨 | **[Discord Inviter Helper](https://github.com/drnecrotix/DiscordInviterHelper)** | Discord utility tooling |
-| 🌐 | **[BG-GAMER King Child](https://github.com/drnecrotix/bg-gamer-king-child)** | WordPress customization |
-| 🏆 | **[GitHub Profile Achievements](https://github.com/drnecrotix/github-profile-achievements)** | GitHub profile tooling and achievement reference |
-
-<div align="center">
-
-[![Explore all repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-%E2%86%92-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drnecrotix?tab=repositories)
 
 </div>
 
@@ -134,22 +105,6 @@ I build practical digital products and community infrastructure — from **WordP
 </picture>
 
 <sub>Generated automatically every 24 hours with GitHub Actions.</sub>
-
-</div>
-
----
-
-## 🏆 GitHub achievements
-
-<div align="center">
-
-[![Pull Shark](https://img.shields.io/badge/Pull_Shark-Merged_PR-8B5CF6?style=for-the-badge&logo=github)](https://github.com/drnecrotix?tab=achievements)
-[![Quickdraw](https://img.shields.io/badge/GitHub-Achievements-A855F7?style=for-the-badge&logo=github)](https://github.com/drnecrotix?tab=achievements)
-[![Open Source](https://img.shields.io/badge/Open_Source-Builder-6D28D9?style=for-the-badge&logo=github)](https://github.com/drnecrotix?tab=repositories)
-
-<br/>
-
-[View GitHub profile achievements →](https://github.com/drnecrotix?tab=achievements)
 
 </div>
 
