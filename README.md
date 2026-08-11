@@ -40,7 +40,11 @@ I build practical digital products and community infrastructure — from **WordP
 <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,cloudflare,docker&perline=6" alt="Platforms and infrastructure" />
 
 ### Design & creative
-<img src="https://skillicons.dev/icons?i=figma,blender&perline=2" alt="Design tools" />
+<img src="https://skillicons.dev/icons?i=figma,blender,photoshop&perline=3" alt="Figma, Blender and Photoshop" />
+<br/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+<img src="https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity&logoColor=white" alt="Affinity" />
+<img src="https://img.shields.io/badge/Autodesk_SketchBook-EA2B2E?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk SketchBook" />
 
 </div>
 
