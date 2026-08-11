@@ -4,15 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+tools+that+solve+real+problems;WordPress+%E2%80%A2+Web+Platforms+%E2%80%A2+Discord+Automation;Open+Data+%E2%80%A2+APIs+%E2%80%A2+Cloudflare+%E2%80%A2+AI-assisted+Development;Build.+Break.+Learn.+Improve.+Repeat." alt="Typing intro" />
 
-<br/>
-
-[![Website](https://img.shields.io/badge/BG--GAMER-bg--gamer.com-111827?style=for-the-badge&logo=wordpress&logoColor=white)](https://bg-gamer.com)
-[![Discord](https://img.shields.io/badge/Discord-BG--GAMER-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.bg-gamer.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-necrotix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/necrotix/)
-[![Instagram](https://img.shields.io/badge/Instagram-dr.necrotix-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dr.necrotix)
-
-![Profile views](https://komarev.com/ghpvc/?username=drnecrotix&label=PROFILE+VIEWS&color=6d28d9&style=for-the-badge)
-
 </div>
 
 ---
