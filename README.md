@@ -85,22 +85,6 @@ I build practical digital products and community infrastructure — from **WordP
 
 ---
 
-## 🐍 Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drnecrotix/drnecrotix/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drnecrotix/drnecrotix/output/github-contribution-grid-snake.svg" />
-  <img alt="Dr. Necrotix contribution snake" src="https://raw.githubusercontent.com/drnecrotix/drnecrotix/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>Generated automatically every 24 hours with GitHub Actions.</sub>
-
-</div>
-
----
-
 ## 📊 GitHub analytics
 
 <div align="center">
