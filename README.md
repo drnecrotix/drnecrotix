@@ -34,39 +34,39 @@ I build practical digital products and community infrastructure — from **WordP
 <div align="center">
 
 ### Core development
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" /></a>
-<a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" /></a>
+<a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
+<a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 
 ### Platforms & infrastructure
-<a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>
-<a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="https://wordpress.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>
+<a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
 
 ### AI-assisted development
-<a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" /></a>
-<a href="https://www.anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
-<a href="https://base44.com/"><img src="https://img.shields.io/badge/Base44-6C5CE7?style=for-the-badge&logoColor=white" alt="Base44" /></a>
-<a href="https://openai.com/index/dall-e-3/"><img src="https://img.shields.io/badge/DALL%C2%B7E-000000?style=for-the-badge&logo=openai&logoColor=white" alt="DALL-E" /></a>
-<a href="https://bfl.ai/"><img src="https://img.shields.io/badge/FLUX-111111?style=for-the-badge" alt="FLUX" /></a>
-<a href="https://stability.ai/core-models"><img src="https://img.shields.io/badge/Stable_Diffusion-7A5AF8?style=for-the-badge" alt="Stable Diffusion" /></a>
+<a href="https://openai.com/codex/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" /></a>
+<a href="https://www.anthropic.com/claude" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
+<a href="https://base44.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Base44-6C5CE7?style=for-the-badge&logoColor=white" alt="Base44" /></a>
+<a href="https://openai.com/index/dall-e-3/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DALL%C2%B7E-000000?style=for-the-badge&logo=openai&logoColor=white" alt="DALL-E" /></a>
+<a href="https://bfl.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/FLUX-111111?style=for-the-badge" alt="FLUX" /></a>
+<a href="https://stability.ai/core-models" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stable_Diffusion-7A5AF8?style=for-the-badge" alt="Stable Diffusion" /></a>
 
 ### Design & creative
-<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-<a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" /></a>
-<a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
-<a href="https://affinity.serif.com/"><img src="https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity&logoColor=white" alt="Affinity" /></a>
-<a href="https://www.sketchbook.com/"><img src="https://img.shields.io/badge/SketchBook-EA2B2E?style=for-the-badge&logo=autodesk&logoColor=white" alt="SketchBook" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" /></a>
+<a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
+<a href="https://affinity.serif.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity&logoColor=white" alt="Affinity" /></a>
+<a href="https://www.sketchbook.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SketchBook-EA2B2E?style=for-the-badge&logo=autodesk&logoColor=white" alt="SketchBook" /></a>
 
 </div>
 
