@@ -45,6 +45,39 @@ Currently, much of my work revolves around **BG-GAMER**, open-source tooling and
 
 ---
 
+## 🔨 Currently building
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔎 SIGMA
+Open-data tooling for making Bulgarian public procurement easier to explore and understand.
+
+[Repository](https://github.com/drnecrotix/sigma)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎮 BG-GAMER
+WordPress, Discord and community integrations powering the BG-GAMER ecosystem.
+
+[Website](https://bg-gamer.com) · [Repos](https://github.com/drnecrotix?tab=repositories)
+
+</td>
+<td width="33%" valign="top">
+
+### 🧩 WordPress Tools
+Custom plugins and integrations for authentication, community features and content workflows.
+
+[Steam Curator Plugin](https://github.com/drnecrotix/wp-steam-curator-plugin)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## ⚡ Tech stack
 
 <div align="center">
@@ -99,6 +132,24 @@ Currently, much of my work revolves around **BG-GAMER**, open-source tooling and
 
 ---
 
+## 📡 Project pulse
+
+<div align="center">
+
+[![SIGMA last commit](https://img.shields.io/github/last-commit/drnecrotix/sigma?style=for-the-badge&logo=github&label=SIGMA)](https://github.com/drnecrotix/sigma/commits/main)
+[![Steam plugin last commit](https://img.shields.io/github/last-commit/drnecrotix/wp-steam-curator-plugin?style=for-the-badge&logo=wordpress&label=STEAM%20PLUGIN)](https://github.com/drnecrotix/wp-steam-curator-plugin/commits/main)
+[![Discord integration last commit](https://img.shields.io/github/last-commit/drnecrotix/bggamer-discord-integration?style=for-the-badge&logo=discord&label=DISCORD%20INTEGRATION)](https://github.com/drnecrotix/bggamer-discord-integration/commits/main)
+
+<br/>
+
+[![SIGMA issues](https://img.shields.io/github/issues/drnecrotix/sigma?style=flat-square&logo=github)](https://github.com/drnecrotix/sigma/issues)
+[![Steam plugin issues](https://img.shields.io/github/issues/drnecrotix/wp-steam-curator-plugin?style=flat-square&logo=github)](https://github.com/drnecrotix/wp-steam-curator-plugin/issues)
+[![Discord integration issues](https://img.shields.io/github/issues/drnecrotix/bggamer-discord-integration?style=flat-square&logo=github)](https://github.com/drnecrotix/bggamer-discord-integration/issues)
+
+</div>
+
+---
+
 ## 🎯 What I build
 
 | Area | Focus |
@@ -110,6 +161,22 @@ Currently, much of my work revolves around **BG-GAMER**, open-source tooling and
 | 📊 **Open data** | Searchable public-data products, ETL workflows and data exploration |
 | 🎮 **Communities** | Gaming platforms, Discord ecosystems and BG-GAMER tooling |
 | ⚙️ **Industrial tech** | CNC/CAM concepts, machine programming and technical workflows |
+
+---
+
+## 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drnecrotix/drnecrotix/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drnecrotix/drnecrotix/output/github-contribution-grid-snake.svg" />
+  <img alt="Dr. Necrotix contribution snake" src="https://raw.githubusercontent.com/drnecrotix/drnecrotix/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>Generated automatically every 24 hours with GitHub Actions.</sub>
+
+</div>
 
 ---
 
