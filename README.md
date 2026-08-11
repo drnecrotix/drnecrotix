@@ -63,20 +63,6 @@ I build practical digital products and community infrastructure — from **WordP
 
 ---
 
-## 📡 Project pulse
-
-<div align="center">
-<a href="https://github.com/drnecrotix/sigma/commits/main"><img src="https://img.shields.io/github/last-commit/drnecrotix/sigma?style=for-the-badge&logo=github&label=SIGMA" alt="SIGMA last commit" /></a>
-<a href="https://github.com/drnecrotix/wp-steam-curator-plugin/commits/main"><img src="https://img.shields.io/github/last-commit/drnecrotix/wp-steam-curator-plugin?style=for-the-badge&logo=wordpress&label=STEAM%20PLUGIN" alt="Steam plugin last commit" /></a>
-<a href="https://github.com/drnecrotix/bggamer-discord-integration/commits/main"><img src="https://img.shields.io/github/last-commit/drnecrotix/bggamer-discord-integration?style=for-the-badge&logo=discord&label=DISCORD%20INTEGRATION" alt="Discord integration last commit" /></a>
-<br/>
-<a href="https://github.com/drnecrotix/sigma/issues"><img src="https://img.shields.io/github/issues/drnecrotix/sigma?style=flat-square&logo=github" alt="SIGMA issues" /></a>
-<a href="https://github.com/drnecrotix/wp-steam-curator-plugin/issues"><img src="https://img.shields.io/github/issues/drnecrotix/wp-steam-curator-plugin?style=flat-square&logo=github" alt="Steam plugin issues" /></a>
-<a href="https://github.com/drnecrotix/bggamer-discord-integration/issues"><img src="https://img.shields.io/github/issues/drnecrotix/bggamer-discord-integration?style=flat-square&logo=github" alt="Discord integration issues" /></a>
-</div>
-
----
-
 ## 🎯 What I build
 
 | Area | Focus |
