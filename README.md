@@ -65,15 +65,23 @@ I build practical digital products and community infrastructure — from **WordP
 
 ## 🎯 What I build
 
-| Area | Focus |
-| --- | --- |
-| 🌐 **Web** | Web platforms, dashboards, integrations and custom interfaces |
-| 🧩 **WordPress** | Plugins, theme extensions, authentication and community features |
-| 🤖 **Automation** | APIs, bots, workflows, Discord systems and AI-assisted tooling |
-| ☁️ **Infrastructure** | Cloudflare, GitHub Actions, deployments and modern web infrastructure |
-| 📊 **Open data** | Searchable public-data products, ETL workflows and data exploration |
-| 🎮 **Communities** | Gaming platforms, Discord ecosystems and BG-GAMER tooling |
-| ⚙️ **Industrial tech** | CNC/CAM concepts, machine programming and technical workflows |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="22%" align="left">Area</th>
+      <th align="left">Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>🌐 <strong>Web</strong></td><td>Web platforms, dashboards, integrations and custom interfaces</td></tr>
+    <tr><td>🧩 <strong>WordPress</strong></td><td>Plugins, theme extensions, authentication and community features</td></tr>
+    <tr><td>🤖 <strong>Automation</strong></td><td>APIs, bots, workflows, Discord systems and AI-assisted tooling</td></tr>
+    <tr><td>☁️ <strong>Infrastructure</strong></td><td>Cloudflare, GitHub Actions, deployments and modern web infrastructure</td></tr>
+    <tr><td>📊 <strong>Open data</strong></td><td>Searchable public-data products, ETL workflows and data exploration</td></tr>
+    <tr><td>🎮 <strong>Communities</strong></td><td>Gaming platforms, Discord ecosystems and BG-GAMER tooling</td></tr>
+    <tr><td>⚙️ <strong>Industrial tech</strong></td><td>CNC/CAM concepts, machine programming and technical workflows</td></tr>
+  </tbody>
+</table>
 
 ---
 
