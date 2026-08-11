@@ -8,7 +8,7 @@
 ## 👾 About me
 
 ```yaml
-name: Nikola "Niko"
+name: Nikola Stoyanov [Niko]
 alias: Dr. Necrotix
 location: Bulgaria
 focus:
