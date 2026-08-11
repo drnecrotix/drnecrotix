@@ -56,6 +56,9 @@ I build practical digital products and community infrastructure — from **WordP
 <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" /></a>
 <a href="https://www.anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
 <a href="https://base44.com/"><img src="https://img.shields.io/badge/Base44-6C5CE7?style=for-the-badge&logoColor=white" alt="Base44" /></a>
+<a href="https://openai.com/index/dall-e-3/"><img src="https://img.shields.io/badge/DALL%C2%B7E-000000?style=for-the-badge&logo=openai&logoColor=white" alt="DALL-E" /></a>
+<a href="https://bfl.ai/"><img src="https://img.shields.io/badge/FLUX-111111?style=for-the-badge" alt="FLUX" /></a>
+<a href="https://stability.ai/core-models"><img src="https://img.shields.io/badge/Stable_Diffusion-7A5AF8?style=for-the-badge" alt="Stable Diffusion" /></a>
 
 ### Design & creative
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
