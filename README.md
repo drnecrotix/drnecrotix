@@ -2,9 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=6,12,20,24&text=Dr.%20Necrotix&fontSize=52&fontAlignY=36&desc=NIKO%20%7C%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Digital%20Creator&descAlignY=58&animation=fadeIn" alt="Dr. Necrotix header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+tools+that+solve+real+problems;WordPress+%E2%80%A2+Web+Platforms+%E2%80%A2+Discord+Automation;Open+Data+%E2%80%A2+APIs+%E2%80%A2+Cloudflare+%E2%80%A2+AI-assisted+Development;Build.+Break.+Learn.+Improve.+Repeat." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+tools+that+solve+real+problems;WordPress+%E2%80%A2+Web+Platforms+%E2%80%A2+Discord+Automation;Open+Data+%E2%80%A2+APIs+%E2%80%A2+Cloudflare+%E2%80%A2+AI-assisted+Development;Build.+Break.+Learn.+Improve.+Repeat." alt="Typing intro" />
 
 <br/>
 
@@ -13,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-necrotix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/necrotix/)
 [![Instagram](https://img.shields.io/badge/Instagram-dr.necrotix-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dr.necrotix)
 
-<img src="https://komarev.com/ghpvc/?username=drnecrotix&label=PROFILE+VIEWS&color=6d28d9&style=for-the-badge" alt="Profile views" />
+![Profile views](https://komarev.com/ghpvc/?username=drnecrotix&label=PROFILE+VIEWS&color=6d28d9&style=for-the-badge)
 
 </div>
 
@@ -41,40 +39,15 @@ motto: "Build. Break. Learn. Improve. Repeat."
 
 I build practical digital products and community infrastructure — from **WordPress plugins and Discord integrations** to **data platforms, automation tools and experimental web projects**.
 
-Currently, much of my work revolves around **BG-GAMER**, open-source tooling and projects where technology can turn complex workflows or data into something easier to use.
-
 ---
 
 ## 🔨 Currently building
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🔎 SIGMA
-Open-data tooling for making Bulgarian public procurement easier to explore and understand.
-
-[Repository](https://github.com/drnecrotix/sigma)
-
-</td>
-<td width="33%" valign="top">
-
-### 🎮 BG-GAMER
-WordPress, Discord and community integrations powering the BG-GAMER ecosystem.
-
-[Website](https://bg-gamer.com) · [Repos](https://github.com/drnecrotix?tab=repositories)
-
-</td>
-<td width="33%" valign="top">
-
-### 🧩 WordPress Tools
-Custom plugins and integrations for authentication, community features and content workflows.
-
-[Steam Curator Plugin](https://github.com/drnecrotix/wp-steam-curator-plugin)
-
-</td>
-</tr>
-</table>
+| Project | What I'm building | Links |
+| --- | --- | --- |
+| 🔎 **SIGMA** | Open-data tooling for exploring Bulgarian public procurement | [Repository](https://github.com/drnecrotix/sigma) |
+| 🎮 **BG-GAMER** | WordPress, Discord and community integrations | [Website](https://bg-gamer.com) · [Repositories](https://github.com/drnecrotix?tab=repositories) |
+| 🧩 **WordPress Tools** | Plugins for authentication, community features and content workflows | [Steam Curator Plugin](https://github.com/drnecrotix/wp-steam-curator-plugin) |
 
 ---
 
@@ -101,32 +74,18 @@ Custom plugins and integrations for authentication, community features and conte
 
 ## 🚀 Featured projects
 
+| | Project | Focus |
+| --- | --- | --- |
+| 🔎 | **[SIGMA](https://github.com/drnecrotix/sigma)** | Open-data platform and public procurement exploration |
+| 🎮 | **[Steam Curator WordPress Plugin](https://github.com/drnecrotix/wp-steam-curator-plugin)** | WordPress / Steam integration |
+| 🤖 | **[BG-GAMER Discord Integration](https://github.com/drnecrotix/bggamer-discord-integration)** | Discord and community automation |
+| 📨 | **[Discord Inviter Helper](https://github.com/drnecrotix/DiscordInviterHelper)** | Discord utility tooling |
+| 🌐 | **[BG-GAMER King Child](https://github.com/drnecrotix/bg-gamer-king-child)** | WordPress customization |
+| 🏆 | **[GitHub Profile Achievements](https://github.com/drnecrotix/github-profile-achievements)** | GitHub profile tooling and achievement reference |
+
 <div align="center">
 
-<a href="https://github.com/drnecrotix/sigma">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drnecrotix&repo=sigma&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF" alt="SIGMA repository" />
-</a>
-<a href="https://github.com/drnecrotix/wp-steam-curator-plugin">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drnecrotix&repo=wp-steam-curator-plugin&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF" alt="Steam Curator WordPress plugin" />
-</a>
-
-<a href="https://github.com/drnecrotix/bggamer-discord-integration">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drnecrotix&repo=bggamer-discord-integration&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF" alt="BG-GAMER Discord Integration" />
-</a>
-<a href="https://github.com/drnecrotix/DiscordInviterHelper">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drnecrotix&repo=DiscordInviterHelper&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF" alt="Discord Inviter Helper" />
-</a>
-
-<a href="https://github.com/drnecrotix/bg-gamer-king-child">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drnecrotix&repo=bg-gamer-king-child&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF" alt="BG-GAMER King Child" />
-</a>
-<a href="https://github.com/drnecrotix/github-profile-achievements">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drnecrotix&repo=github-profile-achievements&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF" alt="GitHub Profile Achievements" />
-</a>
-
-<br/>
-
-[![All repositories](https://img.shields.io/badge/Explore_all_repositories-%E2%86%92-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drnecrotix?tab=repositories)
+[![Explore all repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-%E2%86%92-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drnecrotix?tab=repositories)
 
 </div>
 
@@ -184,7 +143,13 @@ Custom plugins and integrations for authentication, community features and conte
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=drnecrotix&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
+[![Pull Shark](https://img.shields.io/badge/Pull_Shark-Merged_PR-8B5CF6?style=for-the-badge&logo=github)](https://github.com/drnecrotix?tab=achievements)
+[![Quickdraw](https://img.shields.io/badge/GitHub-Achievements-A855F7?style=for-the-badge&logo=github)](https://github.com/drnecrotix?tab=achievements)
+[![Open Source](https://img.shields.io/badge/Open_Source-Builder-6D28D9?style=for-the-badge&logo=github)](https://github.com/drnecrotix?tab=repositories)
+
+<br/>
+
+[View GitHub profile achievements →](https://github.com/drnecrotix?tab=achievements)
 
 </div>
 
@@ -194,16 +159,13 @@ Custom plugins and integrations for authentication, community features and conte
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=drnecrotix&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF&rank_icon=github" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drnecrotix&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=9CA3AF" alt="Top languages" />
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdrnecrotix&query=%24.public_repos&label=PUBLIC%20REPOS&logo=github&style=for-the-badge&color=6D28D9)
+![Followers](https://img.shields.io/github/followers/drnecrotix?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B5CF6)
+![Stars](https://img.shields.io/github/stars/drnecrotix?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=A855F7)
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=drnecrotix&theme=transparent&hide_border=true&stroke=8B5CF6&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6&sideLabels=9CA3AF&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=6B7280" alt="GitHub streak" />
-
-<br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=drnecrotix&bg_color=00000000&color=9CA3AF&line=8B5CF6&point=A855F7&area=true&hide_border=true" alt="Contribution activity graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=drnecrotix&bg_color=00000000&color=9CA3AF&line=8B5CF6&point=A855F7&area=true&hide_border=true" alt="Dr. Necrotix contribution activity graph" />
 
 </div>
 
