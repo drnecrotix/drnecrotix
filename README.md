@@ -65,10 +65,11 @@ I build practical digital products and community infrastructure — from **WordP
 
 ## 🎯 What I build
 
-<table width="100%">
+<div align="center">
+<table>
   <thead>
     <tr>
-      <th width="22%" align="left">Area</th>
+      <th align="left">Area</th>
       <th align="left">Focus</th>
     </tr>
   </thead>
@@ -82,6 +83,7 @@ I build practical digital products and community infrastructure — from **WordP
     <tr><td>⚙️ <strong>Industrial tech</strong></td><td>CNC/CAM concepts, machine programming and technical workflows</td></tr>
   </tbody>
 </table>
+</div>
 
 ---
 
