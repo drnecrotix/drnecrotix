@@ -34,7 +34,14 @@ I build practical digital products and community infrastructure — from **WordP
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,php,mysql,wordpress,git,github,vscode,cloudflare,docker,figma,blender&perline=8" alt="Technology stack" />
 <br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </div>
 
 ---
@@ -42,9 +49,13 @@ I build practical digital products and community infrastructure — from **WordP
 ## 📡 Project pulse
 
 <div align="center">
-[![SIGMA last commit](https://img.shields.io/github/last-commit/drnecrotix/sigma?style=for-the-badge&logo=github&label=SIGMA)](https://github.com/drnecrotix/sigma/commits/main) [![Steam plugin last commit](https://img.shields.io/github/last-commit/drnecrotix/wp-steam-curator-plugin?style=for-the-badge&logo=wordpress&label=STEAM%20PLUGIN)](https://github.com/drnecrotix/wp-steam-curator-plugin/commits/main) [![Discord integration last commit](https://img.shields.io/github/last-commit/drnecrotix/bggamer-discord-integration?style=for-the-badge&logo=discord&label=DISCORD%20INTEGRATION)](https://github.com/drnecrotix/bggamer-discord-integration/commits/main)
+<a href="https://github.com/drnecrotix/sigma/commits/main"><img src="https://img.shields.io/github/last-commit/drnecrotix/sigma?style=for-the-badge&logo=github&label=SIGMA" alt="SIGMA last commit" /></a>
+<a href="https://github.com/drnecrotix/wp-steam-curator-plugin/commits/main"><img src="https://img.shields.io/github/last-commit/drnecrotix/wp-steam-curator-plugin?style=for-the-badge&logo=wordpress&label=STEAM%20PLUGIN" alt="Steam plugin last commit" /></a>
+<a href="https://github.com/drnecrotix/bggamer-discord-integration/commits/main"><img src="https://img.shields.io/github/last-commit/drnecrotix/bggamer-discord-integration?style=for-the-badge&logo=discord&label=DISCORD%20INTEGRATION" alt="Discord integration last commit" /></a>
 <br/>
-[![SIGMA issues](https://img.shields.io/github/issues/drnecrotix/sigma?style=flat-square&logo=github)](https://github.com/drnecrotix/sigma/issues) [![Steam plugin issues](https://img.shields.io/github/issues/drnecrotix/wp-steam-curator-plugin?style=flat-square&logo=github)](https://github.com/drnecrotix/wp-steam-curator-plugin/issues) [![Discord integration issues](https://img.shields.io/github/issues/drnecrotix/bggamer-discord-integration?style=flat-square&logo=github)](https://github.com/drnecrotix/bggamer-discord-integration/issues)
+<a href="https://github.com/drnecrotix/sigma/issues"><img src="https://img.shields.io/github/issues/drnecrotix/sigma?style=flat-square&logo=github" alt="SIGMA issues" /></a>
+<a href="https://github.com/drnecrotix/wp-steam-curator-plugin/issues"><img src="https://img.shields.io/github/issues/drnecrotix/wp-steam-curator-plugin?style=flat-square&logo=github" alt="Steam plugin issues" /></a>
+<a href="https://github.com/drnecrotix/bggamer-discord-integration/issues"><img src="https://img.shields.io/github/issues/drnecrotix/bggamer-discord-integration?style=flat-square&logo=github" alt="Discord integration issues" /></a>
 </div>
 
 ---
@@ -66,7 +77,9 @@ I build practical digital products and community infrastructure — from **WordP
 ## 📊 GitHub analytics
 
 <div align="center">
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdrnecrotix&query=%24.public_repos&label=PUBLIC%20REPOS&logo=github&style=for-the-badge&color=6D28D9) ![Followers](https://img.shields.io/github/followers/drnecrotix?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B5CF6) ![Stars](https://img.shields.io/github/stars/drnecrotix?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=A855F7)
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdrnecrotix&query=%24.public_repos&label=PUBLIC%20REPOS&logo=github&style=for-the-badge&color=6D28D9" alt="Public repositories" />
+<img src="https://img.shields.io/github/followers/drnecrotix?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B5CF6" alt="Followers" />
+<img src="https://img.shields.io/github/stars/drnecrotix?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=A855F7" alt="Stars" />
 <br/>
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=drnecrotix&bg_color=00000000&color=9CA3AF&line=8B5CF6&point=A855F7&area=true&hide_border=true" alt="Dr. Necrotix contribution activity graph" />
 </div>
@@ -76,7 +89,7 @@ I build practical digital products and community infrastructure — from **WordP
 ## 🧠 Current interests
 
 <div align="center">
-`Open Source` · `WordPress` · `Discord Bots` · `REST APIs` · `Cloudflare` · `Automation` · `AI Development` · `Data Platforms` · `DevOps` · `CNC/CAM` · `Digital Design`
+<span>Open Source · WordPress · Discord Bots · REST APIs · Cloudflare · Automation · AI Development · Data Platforms · DevOps · CNC/CAM · Digital Design</span>
 </div>
 
 ---
@@ -84,8 +97,11 @@ I build practical digital products and community infrastructure — from **WordP
 ## 🌐 Connect
 
 <div align="center">
-[![BG-GAMER](https://img.shields.io/badge/BG--GAMER-Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://bg-gamer.com) [![Discord](https://img.shields.io/badge/BG--GAMER-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.bg-gamer.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dr._Necrotix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/necrotix/) [![Instagram](https://img.shields.io/badge/Instagram-@dr.necrotix-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dr.necrotix)
+<a href="https://bg-gamer.com"><img src="https://img.shields.io/badge/BG--GAMER-Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="BG-GAMER" /></a>
+<a href="https://discord.bg-gamer.com/"><img src="https://img.shields.io/badge/BG--GAMER-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://www.linkedin.com/in/necrotix/"><img src="https://img.shields.io/badge/LinkedIn-Dr._Necrotix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/dr.necrotix"><img src="https://img.shields.io/badge/Instagram-@dr.necrotix-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <br/>
-### 💀 `Build. Break. Learn. Improve. Repeat.`
+<strong>💀 Build. Break. Learn. Improve. Repeat.</strong>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=24,20,12,6" alt="Footer" />
 </div>
