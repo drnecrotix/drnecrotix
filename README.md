@@ -27,7 +27,7 @@ motto: "Build. Break. Learn. Improve. Repeat."
 
 I build practical digital products and community infrastructure — from **WordPress plugins and Discord integrations** to **data platforms, automation tools and experimental web projects**.
 
----
+<!--
 
 ## ⚡ Tech stack
 
@@ -94,7 +94,7 @@ I build practical digital products and community infrastructure — from **WordP
 </table>
 </div>
 
----
+-->
 
 ## 📊 GitHub analytics
 
