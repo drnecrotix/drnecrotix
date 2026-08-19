@@ -20,8 +20,9 @@ focus:
   - AI-assisted development
   - Gaming communities
 background:
-  - CNC operation & programming
+  - CNC operation & G-Code programming
   - Industrial technology
+  - Train operation
 motto: "Build. Break. Learn. Improve. Repeat."
 ```
 
