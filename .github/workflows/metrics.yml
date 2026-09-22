@@ -9,29 +9,19 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Задължително, за да може екшънът да запише готовия SVG файл в репозиторието
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }} # Използва вградения системен токен
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: drnecrotix
-          template: classic
-          base: header, activity, community, repositories, metadata
+          template: terminal # <--- Сменяме шаблона
+          base: header, activity, repositories
           config_timezone: Europe/Sofia
           
-          # Настройки за стил (минималистичен изглед)
-          style_svg: |
-            @keyframes fade-in {
-              from { opacity: 0; }
-              to { opacity: 1; }
-            }
-            .core { animation: fade-in 1s ease-in-out; }
-
-          # Плъгини за детайлна и красива графика на активността
+          # Плъгини за терминален изглед
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year # Показва последните 6 месеца за компактност
-          plugin_lines: yes
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_details: bytes, percentage
