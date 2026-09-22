@@ -1,7 +1,7 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}] # Обновява се веднъж дневно
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
 
@@ -16,12 +16,27 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: drnecrotix
-          template: terminal # <--- Сменяме шаблона
-          base: header, activity, repositories
+          
+          # ==========================================
+          # Промяна на ШАБЛОНА (напр. classic, terminal, repository, compact, markdown, community)
+          template: compact
+          # ==========================================
+
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Sofia
           
-          # Плъгини за терминален изглед
+          # Дизайн и анимация за черен/минималистичен фон
+          style_svg: |
+            @keyframes fade-in {
+              from { opacity: 0; }
+              to { opacity: 1; }
+            }
+            .core { animation: fade-in 1s ease-in-out; }
+
+          # Плъгини за визуализация на активността
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_details: bytes, percentage
+          plugin_isocalendar_duration: half-year
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
