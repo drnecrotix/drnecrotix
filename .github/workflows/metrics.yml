@@ -3,24 +3,24 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}] # Обновява се веднъж дневно
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: ["main"]}
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Задължително, за да може екшънът да запише готовия SVG файл в репозиторието
     steps:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ SECRETS.METRICS_TOKEN }} # Нужен ти е личен достъп (PAT) или вграденият GITHUB_TOKEN
+          token: ${{ secrets.GITHUB_TOKEN }} # Използва вградения системен токен
           user: drnecrotix
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Sofia
           
-          # Настройки за стил (минималистичен и изчистен вид)
+          # Настройки за стил (минималистичен изглед)
           style_svg: |
             @keyframes fade-in {
               from { opacity: 0; }
