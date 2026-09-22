@@ -1,0 +1,37 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 0 * * *"}] # Обновява се веднъж дневно
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ SECRETS.METRICS_TOKEN }} # Нужен ти е личен достъп (PAT) или вграденият GITHUB_TOKEN
+          user: drnecrotix
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Sofia
+          
+          # Настройки за стил (минималистичен и изчистен вид)
+          style_svg: |
+            @keyframes fade-in {
+              from { opacity: 0; }
+              to { opacity: 1; }
+            }
+            .core { animation: fade-in 1s ease-in-out; }
+
+          # Плъгини за детайлна и красива графика на активността
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # Показва последните 6 месеца за компактност
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
