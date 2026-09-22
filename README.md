@@ -104,9 +104,7 @@ I build practical digital products and community infrastructure — from **WordP
 <a href="https://github.com/drnecrotix?tab=followers"><img src="https://img.shields.io/github/followers/drnecrotix?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B5CF6" alt="Followers" /></a>
 <a href="https://github.com/drnecrotix?tab=repositories"><img src="https://img.shields.io/github/stars/drnecrotix?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=A855F7" alt="Stars" /></a>
 <br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/drnecrotix/drnecrotix/master/metrics.svg" alt="Metrics" />
-</p>
+  <img src="https://raw.githubusercontent.com/drnecrotix/drnecrotix/main/metrics.svg" alt="Metrics" />
 </div>
 
 ---
