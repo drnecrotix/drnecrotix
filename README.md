@@ -97,12 +97,7 @@ I build practical digital products and community infrastructure — from **WordP
 
 -->
 
-## 📊 GitHub analytics
-
-<div align="center">
-<a href="https://github.com/drnecrotix?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-Explore-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-<a href="https://github.com/drnecrotix?tab=followers"><img src="https://img.shields.io/github/followers/drnecrotix?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B5CF6" alt="Followers" /></a>
-<a href="https://github.com/drnecrotix?tab=repositories"><img src="https://img.shields.io/github/stars/drnecrotix?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=A855F7" alt="Stars" /></a>
+## 📊 Banner
 <p align="center">
   <a href="https://runs-on.dev](https://necrotix.runs-on.dev/">
     <img src="https://runs-on.dev/banner/necrotix" alt="Runs-On Banner" />
