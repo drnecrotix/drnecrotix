@@ -100,7 +100,7 @@ I build practical digital products and community infrastructure — from **WordP
 ## 📊 Banner
 <p align="center">
   <a href="https://runs-on.dev](https://necrotix.runs-on.dev/">
-    <img src="https://runs-on.dev/banner/necrotix" alt="Runs-On Banner" />
+    <img src="https://runs-on.dev/banner/necrotix" width="70%"/>
   </a>
 </p>
 
