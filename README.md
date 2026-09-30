@@ -19,6 +19,8 @@ focus:
   - Open data
   - AI-assisted development
   - Gaming communities
+  - IT Security
+  - Server Administration & Network
 background:
   - CNC operation & G-Code programming
   - Industrial technology
